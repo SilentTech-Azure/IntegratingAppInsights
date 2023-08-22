@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7PSySBN8N7H4lKAhDGmXXK25ixhU5XXHAC2fc8F27G90cUtZfwnjoRxMHYRRQ5w4xrF1lxpyOaGlnP9pTA6CXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Anvi\\source\\repos\\Azure Trainings\\gr\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Anvi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Anvi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Anvi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Anvi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Anvi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Anvi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
